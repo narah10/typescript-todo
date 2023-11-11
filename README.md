@@ -1,24 +1,32 @@
-# New Project
+# Overview
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-## Available Scripts
+{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
 
-### npm start
+{Describe your purpose for writing this software.}
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+[Software Demo Video](http://youtube.link.goes.here)
 
-### npm run build
+# Development Environment
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+{Describe the tools that you used to develop the software}
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
+{Describe the programming language that you used and any libraries.}
 
-### Q: What about Eject?
+# Useful Websites
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+{Make a list of websites that you found helpful in this project}
+
+- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](http://url.link.goes.here)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- Item 1
+- Item 2
+- Item 3
