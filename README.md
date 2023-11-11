@@ -1,32 +1,29 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I'm a front-end web developer with a passion for learning and improving. I built this To Do List software to stay updated on the latest web technologies and best practices with TypeScript. My goal is to create more user-friendly web applications as I continue to grow in the field of software engineering.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
+I developed a To Do List TypeScript application that takes in the user input and displays them. This application is able to complete the items that were added and when reloaded, the items will no longer be displayed. Users can add as many items as they want and this is saved into the local storage, so when users visit the application again, the items they had included before will be displayed without having to re-add everything again. It's a simple application that can take input, display and update different items added. I also used Snowpack for this project, which is a built-in support to build TypeScript files to JavaScript.
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9kG8nnx1T0w)
 
 # Development Environment
+- Visual Studio Code
+- Git
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Here are the programming languages I used for this software
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Snowpack
+- uuid
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Snowpack](https://www.snowpack.dev/)
+- [dev.to](https://dev.to/egnoel/creating-a-simple-todoapp-with-react-and-typescript-32db)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to try to use react for the front-end for better user experience and interaction
+- I want to have the updated contents render without having to re-load the page everytime
